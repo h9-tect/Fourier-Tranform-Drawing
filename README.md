@@ -12,7 +12,8 @@ python3 main.py
 
 
 
-# Sample Code
+# sample code
+
 
 ```python
 from src import SVGReader, Fourier, FourierPlot
